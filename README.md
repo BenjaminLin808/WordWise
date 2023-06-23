@@ -8,6 +8,8 @@ This project is a mobile development course assignment where I am tasked with im
 
 The design requirement is open-ended to some extent. You will find the corresponding web application below and the design target below:
 
+![Expected design](design/.png)
+
 You can also find the complete figma file of the design of the corresponding web application in `design/dictionary-web-app.fig`. To see the figma file, you will need to create an account at https://www.figma.com/, and load this given file in figma via “Import file”.
 
 ![Importation](design/import.png)
